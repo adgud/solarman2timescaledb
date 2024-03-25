@@ -1,0 +1,1603 @@
+{
+  "code": null,
+  "msg": null,
+  "success": true,
+  "requestId": "aabbccddeeff",
+  "deviceSn": "33333333",
+  "deviceId": 444444444,
+  "deviceType": "INVERTER",
+  "deviceState": 1,
+  "collectionTime": 1703754206,
+  "dataList": [
+    {
+      "key": "SN1",
+      "value": "333333333",
+      "unit": null,
+      "name": "SN"
+    },
+    {
+      "key": "SS_CY1",
+      "value": "Poland",
+      "unit": null,
+      "name": "Production Compliance Country"
+    },
+    {
+      "key": "SSD",
+      "value": "Poland",
+      "unit": null,
+      "name": "Safety Standard"
+    },
+    {
+      "key": "Pr1",
+      "value": "8000",
+      "unit": "W",
+      "name": "Rated Power"
+    },
+    {
+      "key": "PCU_NUM",
+      "value": "2",
+      "unit": null,
+      "name": "PCU_Number"
+    },
+    {
+      "key": "PCU_ID",
+      "value": "3",
+      "unit": null,
+      "name": "PCU_ID"
+    },
+    {
+      "key": "PCU_SN",
+      "value": "",
+      "unit": null,
+      "name": "PCU_SN"
+    },
+    {
+      "key": "P_F",
+      "value": "0",
+      "unit": null,
+      "name": "Parallel Function"
+    },
+    {
+      "key": "N_C",
+      "value": "1",
+      "unit": null,
+      "name": "Native Configuration"
+    },
+    {
+      "key": "L_P_A",
+      "value": "0",
+      "unit": null,
+      "name": "Local Parallel Address"
+    },
+    {
+      "key": "M_SLAVE",
+      "value": "Master",
+      "unit": null,
+      "name": "Master-Slave"
+    },
+    {
+      "key": "S_Adds",
+      "value": "01",
+      "unit": null,
+      "name": "Slave Address"
+    },
+    {
+      "key": "GC_opaf",
+      "value": "8565",
+      "unit": "W/s",
+      "name": "Grid-connected output power adjustment frequency"
+    },
+    {
+      "key": "D_M",
+      "value": "HYD 8KTL-3PH-PRO",
+      "unit": null,
+      "name": "Model"
+    },
+    {
+      "key": "SYSTIM1",
+      "value": "2023-12-28 10:02:39",
+      "unit": null,
+      "name": "System Time"
+    },
+    {
+      "key": "ODM_SN",
+      "value": "!u\u0000\u0000$�\u0000\\",
+      "unit": null,
+      "name": "ODMSN"
+    },
+    {
+      "key": "HWv1",
+      "value": "V001",
+      "unit": null,
+      "name": "Hardware Version"
+    },
+    {
+      "key": "SWmor_v1",
+      "value": "0000",
+      "unit": null,
+      "name": "Software Vice Version"
+    },
+    {
+      "key": "SWmai_v2",
+      "value": "0000",
+      "unit": null,
+      "name": "Software Master Version 2"
+    },
+    {
+      "key": "PTCv1",
+      "value": "1.08",
+      "unit": null,
+      "name": "Protocol Version"
+    },
+    {
+      "key": "S_V_N_1",
+      "value": "\u0000",
+      "unit": null,
+      "name": "Software Version Number 1"
+    },
+    {
+      "key": "S_V_N_2",
+      "value": "0",
+      "unit": null,
+      "name": "Software Version Number 2"
+    },
+    {
+      "key": "S_V_N_3",
+      "value": "0",
+      "unit": null,
+      "name": "Software Version Number 3"
+    },
+    {
+      "key": "M_S_V",
+      "value": "V090010",
+      "unit": null,
+      "name": "Master Software Version"
+    },
+    {
+      "key": "S_V_N_4",
+      "value": "0",
+      "unit": null,
+      "name": "Software Version Number 4"
+    },
+    {
+      "key": "V_S_V",
+      "value": "V090010",
+      "unit": null,
+      "name": "Vice Software Version"
+    },
+    {
+      "key": "S_M_V",
+      "value": "0608",
+      "unit": null,
+      "name": "Standard Main Version"
+    },
+    {
+      "key": "COMM_CPU_SWv1",
+      "value": "V090017",
+      "unit": null,
+      "name": "Communication CPU Software Version"
+    },
+    {
+      "key": "ARC_1",
+      "value": "000000000000001F",
+      "unit": null,
+      "name": "AddressMask Realtime CombinerInfo"
+    },
+    {
+      "key": "PCU_HV",
+      "value": "0",
+      "unit": null,
+      "name": "PCU_Hardware_Version"
+    },
+    {
+      "key": "PCU_CAN1_V",
+      "value": "0",
+      "unit": null,
+      "name": "PCU_Can1_Version"
+    },
+    {
+      "key": "PCU_CAN2_V",
+      "value": "0",
+      "unit": null,
+      "name": "PCU_Can2_Version"
+    },
+    {
+      "key": "AM_PCU2",
+      "value": "000000000000001F",
+      "unit": null,
+      "name": "AddressMask_PCU2"
+    },
+    {
+      "key": "PCU_S_V",
+      "value": "\u0000000000",
+      "unit": null,
+      "name": "PCU Software Version"
+    },
+    {
+      "key": "BDU_S_V",
+      "value": "V010008",
+      "unit": null,
+      "name": "BDU Software Version"
+    },
+    {
+      "key": "DV1",
+      "value": "352.60",
+      "unit": "V",
+      "name": "DC Voltage PV1"
+    },
+    {
+      "key": "DV2",
+      "value": "380.10",
+      "unit": "V",
+      "name": "DC Voltage PV2"
+    },
+    {
+      "key": "DC1",
+      "value": "0.40",
+      "unit": "A",
+      "name": "DC Current PV1"
+    },
+    {
+      "key": "DC2",
+      "value": "0.72",
+      "unit": "A",
+      "name": "DC Current PV2"
+    },
+    {
+      "key": "DP1",
+      "value": "140.00",
+      "unit": "W",
+      "name": "DC Power PV1"
+    },
+    {
+      "key": "DP2",
+      "value": "270.00",
+      "unit": "W",
+      "name": "DC Power PV2"
+    },
+    {
+      "key": "AV1",
+      "value": "240.90",
+      "unit": "V",
+      "name": "AC Voltage R/U/A"
+    },
+    {
+      "key": "AV2",
+      "value": "236.90",
+      "unit": "V",
+      "name": "AC Voltage S/V/B"
+    },
+    {
+      "key": "AV3",
+      "value": "241.20",
+      "unit": "V",
+      "name": "AC Voltage T/W/C"
+    },
+    {
+      "key": "AC1",
+      "value": "0.72",
+      "unit": "A",
+      "name": "AC Current R/U/A"
+    },
+    {
+      "key": "AC2",
+      "value": "0.71",
+      "unit": "A",
+      "name": "AC Current S/V/B"
+    },
+    {
+      "key": "AC3",
+      "value": "0.73",
+      "unit": "A",
+      "name": "AC Current T/W/C"
+    },
+    {
+      "key": "A_Fo1",
+      "value": "49.95",
+      "unit": "Hz",
+      "name": "AC Output Frequency R"
+    },
+    {
+      "key": "T_AC_OP",
+      "value": "120.00",
+      "unit": "W",
+      "name": "Total AC Output Power"
+    },
+    {
+      "key": "Vog_o1",
+      "value": "238.80",
+      "unit": "V",
+      "name": "Output Voltage Off-grid--R phase"
+    },
+    {
+      "key": "Vog_o2",
+      "value": "241.30",
+      "unit": "V",
+      "name": "Output Voltage Off-grid--S phase"
+    },
+    {
+      "key": "Vog_o3",
+      "value": "240.30",
+      "unit": "V",
+      "name": "Output Voltage Off-grid--T phase"
+    },
+    {
+      "key": "Et_ge0",
+      "value": "21.90",
+      "unit": "kWh",
+      "name": "Cumulative Production (Active)"
+    },
+    {
+      "key": "Etdy_ge1",
+      "value": "1.93",
+      "unit": "kWh",
+      "name": "Daily Production (Active)"
+    },
+    {
+      "key": "ACTPV",
+      "value": "0.00",
+      "unit": "kW",
+      "name": "ActivePower PV Ext"
+    },
+    {
+      "key": "Dcp_C1",
+      "value": "6",
+      "unit": "mA",
+      "name": "Dc Component- Phase R Current"
+    },
+    {
+      "key": "Dcp_C2",
+      "value": "14",
+      "unit": "mA",
+      "name": "Dc Component- Phase S Current"
+    },
+    {
+      "key": "Dcp_C3",
+      "value": "4",
+      "unit": "mA",
+      "name": "Dc Component- Phase T Current"
+    },
+    {
+      "key": "Dcp_V1",
+      "value": "-57",
+      "unit": "mV",
+      "name": "Dc Component- Phase R Voltage"
+    },
+    {
+      "key": "Dcp_V2",
+      "value": "-148",
+      "unit": "mV",
+      "name": "Dc Component- Phase S Voltage"
+    },
+    {
+      "key": "Dcp_V3",
+      "value": "-135",
+      "unit": "mV",
+      "name": "Dc Component- Phase T Voltage"
+    },
+    {
+      "key": "APo_t_L1",
+      "value": "110.00",
+      "unit": "W",
+      "name": "Load Active Power"
+    },
+    {
+      "key": "R_P_T",
+      "value": "920.00",
+      "unit": "W",
+      "name": "Total Reactive Power"
+    },
+    {
+      "key": "L_AP1",
+      "value": "0.00",
+      "unit": "W",
+      "name": "R-Phase Load Rctive Power"
+    },
+    {
+      "key": "L_AP2",
+      "value": "0.00",
+      "unit": "W",
+      "name": "Active Power Of S-Phase Load"
+    },
+    {
+      "key": "L_AP3",
+      "value": "0.00",
+      "unit": "W",
+      "name": "T-Phase Load Active Power"
+    },
+    {
+      "key": "PCC_AC1",
+      "value": "0.26",
+      "unit": "A",
+      "name": "PCC AC Current R"
+    },
+    {
+      "key": "PCC_AC2",
+      "value": "0.18",
+      "unit": "A",
+      "name": "PCC AC Current S"
+    },
+    {
+      "key": "PCC_AC3",
+      "value": "0.18",
+      "unit": "A",
+      "name": "PCC AC Current T"
+    },
+    {
+      "key": "PCC_AP1",
+      "value": "20.00",
+      "unit": "W",
+      "name": "PCC AC Power R"
+    },
+    {
+      "key": "PCC_AP2",
+      "value": "-30.00",
+      "unit": "W",
+      "name": "PCC AC Power S"
+    },
+    {
+      "key": "PCC_AP3",
+      "value": "20.00",
+      "unit": "W",
+      "name": "PCC AC Power T"
+    },
+    {
+      "key": "PCU_DC_H_V",
+      "value": "0.00",
+      "unit": "V",
+      "name": "PCU_DC_High_Voltage"
+    },
+    {
+      "key": "PCU_DC_L_V",
+      "value": "0.00",
+      "unit": "V",
+      "name": "PCU_DC_Low_Voltage"
+    },
+    {
+      "key": "PCU_L_C",
+      "value": "0.00",
+      "unit": "A",
+      "name": "PCU_Low_Current"
+    },
+    {
+      "key": "PCU_L_P",
+      "value": "0.00",
+      "unit": "W",
+      "name": "PCU_Low_Power"
+    },
+    {
+      "key": "PCU_BUSP",
+      "value": "0.00",
+      "unit": "V",
+      "name": "PCU_BusP"
+    },
+    {
+      "key": "PCU_BUSN",
+      "value": "0.00",
+      "unit": "V",
+      "name": "PCU_BusN"
+    },
+    {
+      "key": "PCU_FC_V1",
+      "value": "0.00",
+      "unit": "V",
+      "name": "PCU_FC_Voltage1"
+    },
+    {
+      "key": "PCU_FC_V2",
+      "value": "0.00",
+      "unit": "V",
+      "name": "PCU_FC_Voltage2"
+    },
+    {
+      "key": "PCU_FC_V3",
+      "value": "0.00",
+      "unit": "V",
+      "name": "PCU_FC_Voltage3"
+    },
+    {
+      "key": "PCU_FC_V4",
+      "value": "0.00",
+      "unit": "V",
+      "name": "PCU_FC_Voltage4"
+    },
+    {
+      "key": "PCU_MAX_C_C",
+      "value": "0.00",
+      "unit": "A",
+      "name": "PCU_Max_Charge_Current"
+    },
+    {
+      "key": "PCU_MAX_D_C",
+      "value": "0.00",
+      "unit": "A",
+      "name": "PCU_Max_Discharge_Current"
+    },
+    {
+      "key": "Clk1",
+      "value": "11",
+      "unit": "mA",
+      "name": "Leak Current"
+    },
+    {
+      "key": "N_Iinfo1",
+      "value": "518",
+      "unit": "KΩ",
+      "name": "Insulation Impedance 1"
+    },
+    {
+      "key": "V_BUSneg1",
+      "value": "323.50",
+      "unit": "V",
+      "name": "NBUS Voltage"
+    },
+    {
+      "key": "ST_PG1",
+      "value": "Grid connected",
+      "unit": null,
+      "name": "Grid Status"
+    },
+    {
+      "key": "PG_F1",
+      "value": "49.95",
+      "unit": "Hz",
+      "name": "Grid Frequency"
+    },
+    {
+      "key": "PG_Pt1",
+      "value": "10.00",
+      "unit": "W",
+      "name": "Total Grid Power"
+    },
+    {
+      "key": "t_gc1",
+      "value": "1.60",
+      "unit": "kWh",
+      "name": "Cumulative Grid Feed-in"
+    },
+    {
+      "key": "Et_pu1",
+      "value": "83.70",
+      "unit": "kWh",
+      "name": "Cumulative Energy Purchased"
+    },
+    {
+      "key": "t_gc_tdy1",
+      "value": "0.02",
+      "unit": "kWh",
+      "name": "Daily Grid Feed-in"
+    },
+    {
+      "key": "Etdy_pu1",
+      "value": "5.67",
+      "unit": "kWh",
+      "name": "Daily Energy Purchased"
+    },
+    {
+      "key": "Cb1",
+      "value": "0.00",
+      "unit": "A",
+      "name": "Current-Branch 1"
+    },
+    {
+      "key": "Cb2",
+      "value": "0.00",
+      "unit": "A",
+      "name": "Current-Branch 2"
+    },
+    {
+      "key": "Cb3",
+      "value": "0.00",
+      "unit": "A",
+      "name": "Current-Branch 3"
+    },
+    {
+      "key": "Cb4",
+      "value": "0.00",
+      "unit": "A",
+      "name": "Current-Branch 4"
+    },
+    {
+      "key": "E_Cuse1",
+      "value": "0.16",
+      "unit": "A",
+      "name": "Consumption Current R/U/A"
+    },
+    {
+      "key": "E_Cuse2",
+      "value": "0.19",
+      "unit": "A",
+      "name": "Consumption Current S/V/B "
+    },
+    {
+      "key": "E_Cuse3",
+      "value": "0.17",
+      "unit": "A",
+      "name": "Consumption Current T/W/C "
+    },
+    {
+      "key": "E_Puse_t1",
+      "value": "110.00",
+      "unit": "W",
+      "name": "Total Consumption Power"
+    },
+    {
+      "key": "Et_use1",
+      "value": "90.80",
+      "unit": "kWh",
+      "name": "Cumulative Consumption"
+    },
+    {
+      "key": "Etdy_use1",
+      "value": "5.25",
+      "unit": "kWh",
+      "name": "Daily Consumption"
+    },
+    {
+      "key": "BDU_SN",
+      "value": "HS2005010KE229252008",
+      "unit": null,
+      "name": "BDU_SN"
+    },
+    {
+      "key": "B_ST1",
+      "value": "Charging",
+      "unit": null,
+      "name": "Battery Status"
+    },
+    {
+      "key": "BCID",
+      "value": "0",
+      "unit": null,
+      "name": "BatConfig ID"
+    },
+    {
+      "key": "BCA",
+      "value": "1",
+      "unit": null,
+      "name": "BatConfig Address"
+    },
+    {
+      "key": "B_P1",
+      "value": "300.00",
+      "unit": "W",
+      "name": "Battery Power"
+    },
+    {
+      "key": "B_Pdcg1",
+      "value": "300.00",
+      "unit": "W",
+      "name": "Battery Discharging Power"
+    },
+    {
+      "key": "Bcap1",
+      "value": "100",
+      "unit": "Ah",
+      "name": "Battery Capacity"
+    },
+    {
+      "key": "B_left_cap1",
+      "value": "95",
+      "unit": "%",
+      "name": "SoC"
+    },
+    {
+      "key": "B_HLT_EXP1",
+      "value": "100",
+      "unit": "%",
+      "name": "SoH"
+    },
+    {
+      "key": "t_cg_n1",
+      "value": "30.60",
+      "unit": "kWh",
+      "name": "Total Charging Energy"
+    },
+    {
+      "key": "t_dcg_n1",
+      "value": "11.70",
+      "unit": "kWh",
+      "name": "Total Discharging Energy"
+    },
+    {
+      "key": "Etdy_cg1",
+      "value": "4.30",
+      "unit": "kWh",
+      "name": "Daily Charging Energy"
+    },
+    {
+      "key": "Etdy_dcg1",
+      "value": "1.32",
+      "unit": "kWh",
+      "name": "Daily Discharging Energy"
+    },
+    {
+      "key": "CS",
+      "value": "0",
+      "unit": null,
+      "name": "Charge Source"
+    },
+    {
+      "key": "B_TYP1",
+      "value": "0",
+      "unit": null,
+      "name": "Battery Type"
+    },
+    {
+      "key": "BRC",
+      "value": "100",
+      "unit": "Ah",
+      "name": "Battery Rated Capacity"
+    },
+    {
+      "key": "P_RT_C_V1",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage1"
+    },
+    {
+      "key": "P_RT_C_V10",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage10"
+    },
+    {
+      "key": "P_RT_C_V11",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage11"
+    },
+    {
+      "key": "P_RT_C_V12",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage12"
+    },
+    {
+      "key": "P_RT_C_V13",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage13"
+    },
+    {
+      "key": "P_RT_C_V14",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage14"
+    },
+    {
+      "key": "P_RT_C_V15",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage15"
+    },
+    {
+      "key": "P_RT_C_V16",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage16"
+    },
+    {
+      "key": "P_RT_C_V17",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage17"
+    },
+    {
+      "key": "P_RT_C_V18",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage18"
+    },
+    {
+      "key": "P_RT_C_V19",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage19"
+    },
+    {
+      "key": "P_RT_C_V2",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage2"
+    },
+    {
+      "key": "P_RT_C_V20",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage20"
+    },
+    {
+      "key": "P_RT_C_V21",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage21"
+    },
+    {
+      "key": "P_RT_C_V22",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage22"
+    },
+    {
+      "key": "P_RT_C_V23",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage23"
+    },
+    {
+      "key": "P_RT_C_V24",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage24"
+    },
+    {
+      "key": "P_RT_C_V3",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage3"
+    },
+    {
+      "key": "P_RT_C_V4",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage4"
+    },
+    {
+      "key": "P_RT_C_V5",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage5"
+    },
+    {
+      "key": "P_RT_C_V6",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage6"
+    },
+    {
+      "key": "P_RT_C_V7",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage7"
+    },
+    {
+      "key": "P_RT_C_V8",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage8"
+    },
+    {
+      "key": "P_RT_C_V9",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Voltage9"
+    },
+    {
+      "key": "P_RT_C",
+      "value": "2.70",
+      "unit": "A",
+      "name": "Pack RT Current"
+    },
+    {
+      "key": "P_RT_A_S",
+      "value": "0",
+      "unit": null,
+      "name": "Pack RT Alarm State"
+    },
+    {
+      "key": "P_RT_F_S",
+      "value": "0",
+      "unit": null,
+      "name": "Pack RT Fault State"
+    },
+    {
+      "key": "P_RT_T_E",
+      "value": "35.40",
+      "unit": "℃",
+      "name": "Pack RT Temperature Env"
+    },
+    {
+      "key": "P_RT_B_S",
+      "value": "0",
+      "unit": null,
+      "name": "Pack RT Balance State"
+    },
+    {
+      "key": "P_RT_F_C",
+      "value": "105.90",
+      "unit": "Ah",
+      "name": "Pack RT FullCharge Capacity"
+    },
+    {
+      "key": "P_RT_R_C",
+      "value": "100.40",
+      "unit": "Ah",
+      "name": "Pack RT Remaining Capacity"
+    },
+    {
+      "key": "P_RT_T1",
+      "value": "28.00",
+      "unit": "℃",
+      "name": "Pack RT Temperature1 Pack"
+    },
+    {
+      "key": "P_RT_T2",
+      "value": "24.20",
+      "unit": "℃",
+      "name": "Pack RT Temperature2 Pack"
+    },
+    {
+      "key": "P_RT_T3",
+      "value": "23.60",
+      "unit": "℃",
+      "name": "Pack RT Temperature3 Pack"
+    },
+    {
+      "key": "P_RT_T4",
+      "value": "25.80",
+      "unit": "℃",
+      "name": "Pack RT Temperature4 Pack"
+    },
+    {
+      "key": "P_RT_C1",
+      "value": "2",
+      "unit": "times",
+      "name": "Pack RT Cycles"
+    },
+    {
+      "key": "P_RT_T_V",
+      "value": "53.70",
+      "unit": "V",
+      "name": "Pack RT Total Voltage"
+    },
+    {
+      "key": "P_RT_C_Min",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Min Voltage"
+    },
+    {
+      "key": "P_RT_C_Max",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack RT Cell Max Voltage"
+    },
+    {
+      "key": "P_F_T_MOS",
+      "value": "31.60",
+      "unit": "℃",
+      "name": "Pack Fault Temperature MOS"
+    },
+    {
+      "key": "P_F_C_V1",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage1"
+    },
+    {
+      "key": "P_F_C_V10",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage10"
+    },
+    {
+      "key": "P_F_C_V11",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage11"
+    },
+    {
+      "key": "P_F_C_V12",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage12"
+    },
+    {
+      "key": "P_F_C_V13",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage13"
+    },
+    {
+      "key": "P_F_C_V14",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage14"
+    },
+    {
+      "key": "P_F_C_V15",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage15"
+    },
+    {
+      "key": "P_F_C_V16",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage16"
+    },
+    {
+      "key": "P_F_C_V17",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage17"
+    },
+    {
+      "key": "P_F_C_V18",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage18"
+    },
+    {
+      "key": "P_F_C_V19",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage19"
+    },
+    {
+      "key": "P_F_C_V2",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage2"
+    },
+    {
+      "key": "P_F_C_V20",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage20"
+    },
+    {
+      "key": "P_F_C_V21",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage21"
+    },
+    {
+      "key": "P_F_C_V22",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage22"
+    },
+    {
+      "key": "P_F_C_V23",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage23"
+    },
+    {
+      "key": "P_F_C_V24",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage24"
+    },
+    {
+      "key": "P_F_C_V3",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage3"
+    },
+    {
+      "key": "P_F_C_V4",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage4"
+    },
+    {
+      "key": "P_F_C_V5",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage5"
+    },
+    {
+      "key": "P_F_C_V6",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage6"
+    },
+    {
+      "key": "P_F_C_V7",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage7"
+    },
+    {
+      "key": "P_F_C_V8",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage8"
+    },
+    {
+      "key": "P_F_C_V9",
+      "value": "3.36",
+      "unit": "V",
+      "name": "Pack Fault Cell Voltage9"
+    },
+    {
+      "key": "P_F_C",
+      "value": "0.00",
+      "unit": "A",
+      "name": "Pack Fault Current"
+    },
+    {
+      "key": "P_F_S",
+      "value": "0.00",
+      "unit": null,
+      "name": "Pack Fault State"
+    },
+    {
+      "key": "P_F_T_E",
+      "value": "34.40",
+      "unit": "℃",
+      "name": "Pack Fault Temperature Env"
+    },
+    {
+      "key": "P_F_F_C",
+      "value": "104.90",
+      "unit": "Ah",
+      "name": "Pack Fault FullCharge Capacity"
+    },
+    {
+      "key": "P_F_SN",
+      "value": "SH2004400VE22A052131",
+      "unit": null,
+      "name": "Pack Fault SN"
+    },
+    {
+      "key": "P_F_R_C",
+      "value": "99.40",
+      "unit": "Ah",
+      "name": "Pack Fault Remaining Capacity"
+    },
+    {
+      "key": "P_F_T",
+      "value": "741898998",
+      "unit": null,
+      "name": "Pack Fault Timestamp"
+    },
+    {
+      "key": "P_F_T1",
+      "value": "27.00",
+      "unit": "℃",
+      "name": "Pack Fault Temperature1 Pack"
+    },
+    {
+      "key": "P_F_T2",
+      "value": "23.50",
+      "unit": "℃",
+      "name": "Pack Fault Temperature2 Pack"
+    },
+    {
+      "key": "P_F_T3",
+      "value": "23.30",
+      "unit": "℃",
+      "name": "Pack Fault Temperature3 Pack"
+    },
+    {
+      "key": "P_F_T4",
+      "value": "25.40",
+      "unit": "℃",
+      "name": "Pack Fault Temperature4 Pack"
+    },
+    {
+      "key": "P_F_T_V",
+      "value": "0.00",
+      "unit": "V",
+      "name": "Pack Fault Total Voltage"
+    },
+    {
+      "key": "P_FC_Min",
+      "value": "3.29",
+      "unit": "V",
+      "name": "Pack Fault Cell Min Voltage"
+    },
+    {
+      "key": "P_FC_Max",
+      "value": "3.30",
+      "unit": "V",
+      "name": "Pack Fault Cell Max Voltage"
+    },
+    {
+      "key": "P_A_S",
+      "value": "0.00",
+      "unit": null,
+      "name": "Pack Alarm State"
+    },
+    {
+      "key": "P_F_ID",
+      "value": "4352",
+      "unit": null,
+      "name": "Pack Fault ID"
+    },
+    {
+      "key": "P_RT_ID",
+      "value": "0",
+      "unit": null,
+      "name": "Pack RT ID"
+    },
+    {
+      "key": "P_RT_T",
+      "value": "1597576924",
+      "unit": null,
+      "name": "Pack RT Timestamp"
+    },
+    {
+      "key": "BDU_B_N",
+      "value": "2",
+      "unit": null,
+      "name": "BDU_Battery_Number"
+    },
+    {
+      "key": "P_BAP1",
+      "value": "420.00",
+      "unit": "W",
+      "name": "Power- Battery Pack 1"
+    },
+    {
+      "key": "Vtr1_BAP1",
+      "value": "406.60",
+      "unit": "V",
+      "name": "Total Voltage- Battery Pack 1"
+    },
+    {
+      "key": "Cr1_BAP1",
+      "value": "1.04",
+      "unit": "A",
+      "name": "Current- Battery Pack 1"
+    },
+    {
+      "key": "SOC_BAP1",
+      "value": "95",
+      "unit": "%",
+      "name": "SoC- Battery Pack 1"
+    },
+    {
+      "key": "SOH_BAP1",
+      "value": "100",
+      "unit": "%",
+      "name": "Soh-Battery Pack1"
+    },
+    {
+      "key": "Cycle_t_BAP1",
+      "value": "2",
+      "unit": null,
+      "name": "Cycle Times-Battery Pack1"
+    },
+    {
+      "key": "T_BAP1",
+      "value": "25",
+      "unit": "℃",
+      "name": "Temperature- Battery Pack 1"
+    },
+    {
+      "key": "BMS_S_P0",
+      "value": "0",
+      "unit": null,
+      "name": "BMS Sys Protect0"
+    },
+    {
+      "key": "BMS_S_P1",
+      "value": "0",
+      "unit": null,
+      "name": "BMS Sys Protect1"
+    },
+    {
+      "key": "BMS_S_A0",
+      "value": "0",
+      "unit": null,
+      "name": "BMS Sys Alarm0"
+    },
+    {
+      "key": "BMS_S_A1",
+      "value": "0",
+      "unit": null,
+      "name": "BMS Sys Alarm1"
+    },
+    {
+      "key": "BMS_S_T1",
+      "value": "1597576924",
+      "unit": null,
+      "name": "BMS Sys Time"
+    },
+    {
+      "key": "BMS_B_HLT_EXP1",
+      "value": "100",
+      "unit": null,
+      "name": "BMS SOH"
+    },
+    {
+      "key": "T_MDU1",
+      "value": "33",
+      "unit": "℃",
+      "name": "Module temperature1"
+    },
+    {
+      "key": "SPAT",
+      "value": "46",
+      "unit": "℃",
+      "name": "Single Plate Ambient Temperature"
+    },
+    {
+      "key": "T_RDT2",
+      "value": "31",
+      "unit": "℃",
+      "name": "Radiator Temperature 1"
+    },
+    {
+      "key": "CIT",
+      "value": "0",
+      "unit": "℃",
+      "name": "Chassis Internal Temperature"
+    },
+    {
+      "key": "PCU_R_T1",
+      "value": "0",
+      "unit": "℃",
+      "name": "PCU_Radiator_Temperature1"
+    },
+    {
+      "key": "PCU_R_T2",
+      "value": "0",
+      "unit": "℃",
+      "name": "PCU_Radiator_Temperature2"
+    },
+    {
+      "key": "BC1",
+      "value": "0.00",
+      "unit": "A",
+      "name": "Balanced Current"
+    },
+    {
+      "key": "GE_T_TODAY",
+      "value": "602",
+      "unit": "Min",
+      "name": "Generation Time Today"
+    },
+    {
+      "key": "GE_T_TOTAL",
+      "value": "5711",
+      "unit": "Min",
+      "name": "Generation Time Total"
+    },
+    {
+      "key": "t_w_hou1",
+      "value": "171.43",
+      "unit": "h",
+      "name": "Total Running Hour"
+    },
+    {
+      "key": "BOOT_COUNT_DOWN",
+      "value": "0",
+      "unit": null,
+      "name": "Boot Countdown"
+    },
+    {
+      "key": "Buck_C1",
+      "value": "0.00",
+      "unit": "A",
+      "name": "Buck Current"
+    },
+    {
+      "key": "Bus_V1",
+      "value": "646.80",
+      "unit": "V",
+      "name": "Bus Voltage"
+    },
+    {
+      "key": "V_BUSpos1",
+      "value": "323.30",
+      "unit": "V",
+      "name": "PBUS Voltage"
+    },
+    {
+      "key": "Upg_R",
+      "value": "0",
+      "unit": null,
+      "name": "Upgrade Result"
+    },
+    {
+      "key": "Upg_R1",
+      "value": "0",
+      "unit": null,
+      "name": "Upgrade Result1"
+    },
+    {
+      "key": "PCU_INQ",
+      "value": "65535",
+      "unit": null,
+      "name": "PCU_Inquire"
+    },
+    {
+      "key": "PCU_R_O_F",
+      "value": "0",
+      "unit": null,
+      "name": "PCU_Remote_On_Off"
+    },
+    {
+      "key": "UP_T",
+      "value": "0",
+      "unit": null,
+      "name": "Upgrade_Total"
+    },
+    {
+      "key": "UP_R_TAB1",
+      "value": "0",
+      "unit": null,
+      "name": "Upgrade_Result_Table1"
+    },
+    {
+      "key": "UP_R_TAB2",
+      "value": "0",
+      "unit": null,
+      "name": "Upgrade_Result_Table2"
+    },
+    {
+      "key": "RC",
+      "value": "945",
+      "unit": null,
+      "name": "Realtime Capacity"
+    },
+    {
+      "key": "TV",
+      "value": "53.70",
+      "unit": "V",
+      "name": "Total Voltage"
+    },
+    {
+      "key": "TC",
+      "value": "25.00",
+      "unit": "A",
+      "name": "Total Current"
+    },
+    {
+      "key": "CAT",
+      "value": "2.50",
+      "unit": "℃",
+      "name": "Cell Average Temperature"
+    },
+    {
+      "key": "INV_ST1",
+      "value": "Grid connected",
+      "unit": null,
+      "name": "Inverter status"
+    },
+    {
+      "key": "INV_WORK_ST1",
+      "value": "0",
+      "unit": null,
+      "name": "Inverter Working Status"
+    },
+    {
+      "key": "CORE_RUN_D1",
+      "value": "",
+      "unit": null,
+      "name": "Core Running Data"
+    },
+    {
+      "key": "PCU_W_S",
+      "value": "0",
+      "unit": null,
+      "name": "PCU_Work_State"
+    },
+    {
+      "key": "ERR1",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code"
+    },
+    {
+      "key": "ERR2",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 2"
+    },
+    {
+      "key": "ERR3",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 3"
+    },
+    {
+      "key": "ERR4",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 4"
+    },
+    {
+      "key": "ERR5",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 5"
+    },
+    {
+      "key": "ERR6",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 6"
+    },
+    {
+      "key": "ERR7",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 7"
+    },
+    {
+      "key": "ERR8",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 8"
+    },
+    {
+      "key": "ERR9",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 9"
+    },
+    {
+      "key": "ERR38",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 38"
+    },
+    {
+      "key": "ERR39",
+      "value": "",
+      "unit": null,
+      "name": "Alarm Code 39"
+    },
+    {
+      "key": "ERR40",
+      "value": "0",
+      "unit": null,
+      "name": "Alarm Code 40"
+    },
+    {
+      "key": "ARC",
+      "value": "0",
+      "unit": null,
+      "name": "Feed-inLimit Control"
+    },
+    {
+      "key": "ARP",
+      "value": "0.00",
+      "unit": "W",
+      "name": "Feed-inLimit Power"
+    },
+    {
+      "key": "IF_L1",
+      "value": "10",
+      "unit": null,
+      "name": "Interface Language"
+    },
+    {
+      "key": "OUTPUT_FREQ_SET",
+      "value": "133",
+      "unit": "Hz",
+      "name": "Output Frequency Settings "
+    },
+    {
+      "key": "SRS1",
+      "value": "1",
+      "unit": null,
+      "name": "Storage Running Status"
+    },
+    {
+      "key": "L_U_C",
+      "value": "0",
+      "unit": null,
+      "name": "Local Upgrade Control"
+    },
+    {
+      "key": "R_S",
+      "value": "0",
+      "unit": null,
+      "name": "Resonance Sensitivity"
+    },
+    {
+      "key": "R_U_C",
+      "value": "0",
+      "unit": null,
+      "name": "Remote Upgrade Control"
+    }
+  ]
+}
